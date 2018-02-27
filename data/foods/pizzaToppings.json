@@ -8,6 +8,11 @@
     "Canadian bacon",
     "cheese",
     "chicken",
+    "vegan chicken",
+    "yellow peppers",
+    "red peppers",
+    "ginger",
+    "salat",
     "chili peppers",
     "feta",
     "garlic",
@@ -18,13 +23,20 @@
     "hot sauce",
     "meatballs",
     "mushrooms",
-    "olives",
+    "black olives",
+    "green olives",
     "onions",
     "pepperoni",
     "pineapple",
     "sausage",
     "spinach",
+    "seitan",
+    "salsa",
     "sun-dried tomato",
     "tomatoes"
+    "tuna",
+    "tofu",
+    "seitan",
+    
   ]
 }
